@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align= center> Bienvenido!! :smiley_cat: </p>
 
-<!--
-**Chicledot/Chicledot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### // Acerca de mi //
+- 23 años :finnadie:
+- :beginner: Estudiante universitario aprendiendo de varios lenguajes!
+- Bilingue  :es: / :us:
+- Telecomunicador nivel medio :satellite:
+####   actualmente aprendiendo :seedling: :
+- :milky_way: Godot :milky_way:
+- :hammer: Hammer level editor (Source2) :hammer:
+- blender :doughnut:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: PC specs
+- CPU: AMD 5800X3D
+- GPU: AMD 6750XT
+- RAM: 16 gb ddr4 32000mhz (x2)
