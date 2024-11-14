@@ -3,7 +3,7 @@
 
 ### // Acerca de mi //
 - 23 años :finnadie:
-- :beginner: Estudiante universitario aprendiendo de varios lenguajes!
+- :beginner: Estudiante universitario aprendiendo varios lenguajes!
 - Bilingue  :es: / :us:
 - Telecomunicador nivel medio :satellite:
 ####   actualmente aprendiendo :seedling: :
